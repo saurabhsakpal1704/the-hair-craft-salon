@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#171513"/>
+  <rect x="45" y="45" width="1110" height="540" rx="24"
+        fill="none" stroke="#D8C3A5" stroke-width="2"/>
+  <text x="600" y="260"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="76"
+        font-weight="700"
+        letter-spacing="8"
+        fill="#D8C3A5">THE HAIR CRAFT</text>
+  <text x="600" y="335"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        letter-spacing="5"
+        fill="#F4EFE8">UNISEX PROFESSIONAL SALON</text>
+  <text x="600" y="405"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        fill="#C8BFB3">NERAL • MAHARASHTRA</text>
+</svg>
